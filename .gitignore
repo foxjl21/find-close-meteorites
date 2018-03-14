@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+#pipenv locking file
+Pipfile.lock
 
 # C extensions
 *.so
